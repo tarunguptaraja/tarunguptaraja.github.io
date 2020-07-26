@@ -15,11 +15,16 @@ Web Portfolio to showcase projects and skills in better manner.
 * Skills with progress bar
 ### Education
 * Undergrad
-* Intermediate
+
+### Projects
 ### Work Experience
+### Education
 ### Contact
 * Mail Address
-* Location
+* Instagram
+* GitHub
+* LinkedIn
+* Twitter
 
 ### Footer
 ------------------------------------------------------------------
