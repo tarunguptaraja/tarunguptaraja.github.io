@@ -14,7 +14,7 @@ Web Portfolio to showcase projects and skills in better manner.
 ### Skills
 * Skills with progress bar
 ### Education
-* Undergrad
+* Undergradate
 
 ### Projects
 ### Work Experience
